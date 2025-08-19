@@ -42,29 +42,29 @@ Built with HTML, CSS, and JavaScript.
 │── styles.css      # Styling
 │── icon.png        # App icon
 ▶️ How to Run
-Clone the repository:
 
-git clone https://github.com/your-username/Sorting-Visualizer-App.git
-Open index.html in your browser.
 
-Start sorting and enjoy 🚀
+ - git clone https: https://sorting-algorithem-visualizer.netlify.app/
+ - Open index.html in your browser.
 
-🌟 Future Improvements
-Add more sorting algorithms (Heap Sort, Radix Sort, etc.)
+ - Start sorting and enjoy 🚀
 
-Add dark mode toggle
+ ## 🌟 Future Improvements
+ - Add more sorting algorithms (Heap Sort, Radix Sort, etc.)
 
-Show time and space complexity alongside sorting
+- Add dark mode toggle
 
-🤝 Contributing
-Contributions are welcome!
+- Show time and space complexity alongside sorting
 
-Fork the repo
+## 🤝 Contributing
+ - Contributions are welcome!
 
-Create a new branch (feature-new)
+ - Fork the repo
 
-Commit changes
+ - Create a new branch (feature-new)
 
-Open a Pull Request
+- Commit changes
+
+- Open a Pull Request
 
 
