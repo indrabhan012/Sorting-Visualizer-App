@@ -44,7 +44,7 @@ Built with HTML, CSS, and JavaScript.
 ▶️ How to Run
 
 
- - git clone https: https://sorting-algorithem-visualizer.netlify.app/
+ - Run App https: https://sorting-algorithem-visualizer.netlify.app/
  - Open index.html in your browser.
 
  - Start sorting and enjoy 🚀
